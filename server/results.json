@@ -1,56 +1,152 @@
 [
   {
-    "name": "Srija Car Service",
-    "address": "Jatin Das Nagar Belgharia, Kolkata",
-    "phone": "09606196032",
-    "rating": "4.9"
-  },
-  {
-    "name": "Prime Carzonrent",
-    "address": "2 No. Ganesh Ghosh Lane Topsia, Kolkata",
-    "phone": "07795648759",
-    "rating": "4.9"
-  },
-  {
-    "name": "Nandy Travels",
-    "address": "Dum Dum Ghughudanga, Kolkata",
-    "phone": "08792903214",
-    "rating": "4.8"
-  },
-  {
-    "name": "Kanchan Tour & Travels",
-    "address": "Peyari Mohan Roy Road Alipore, Kolkata",
-    "phone": "08460221698",
+    "name": "Dhama Clinic",
+    "address": "Dhama Clinic Noida Sector 34, Noida",
+    "phone": "08105574520",
     "rating": "4.2"
   },
   {
-    "name": "Jayanta Car Rental",
-    "address": "Station Road Sonarpur, Kolkata",
-    "phone": "09606176397",
-    "rating": "4.5"
-  },
-  {
-    "name": "R C Enterprise",
-    "address": "Picnic Garden Tiljala, Kolkata",
-    "phone": "09972840770",
-    "rating": "4.2"
-  },
-  {
-    "name": "S.G.M. TRAVELS",
-    "address": "Anwar Shah Road Golf Green, Kolkata",
-    "phone": "09725199168",
+    "name": "Fortis Hospital",
+    "address": "Fortis Hospital Imt Manesar, Gurgaon",
+    "phone": "08511619049",
     "rating": "4.7"
   },
   {
-    "name": "Ganapati Car Service",
-    "address": "B T Road Sodepur, Kolkata",
-    "phone": "09845472464",
+    "name": "Medanta The Medicity",
+    "address": "Baktawar Singh Gurgaon Sector 38, Gurgaon",
+    "phone": "07795666852",
+    "rating": "4.3"
+  },
+  {
+    "name": "Genhealth Clinic",
+    "address": "Beta 1-Greater Noida, Greater Noida",
+    "phone": "08147859203",
     "rating": "4.8"
   },
   {
-    "name": "Prem Cars",
-    "address": "S. A Farooquie Road Metiabruz, Kolkata",
-    "phone": "08904956119",
+    "name": "Dr. Susheel Tyagi(Mediix Clinic)",
+    "address": "Niti Khand 2-Indirapuram, Ghaziabad",
+    "phone": "09980252276",
+    "rating": "5.0"
+  },
+  {
+    "name": "Dr. Fateh Singh",
+    "address": "80 Shalimar Garden Extention 1, Sahibabad",
+    "phone": "09606242108",
+    "rating": "4.5"
+  },
+  {
+    "name": "Asian Institute Of Medical Sciences",
+    "address": "Faridabad Sector 21a, Faridabad",
+    "phone": "07411780677",
+    "rating": "4.2"
+  },
+  {
+    "name": "Yashoda Nursing Home",
+    "address": "Loni, Ghaziabad",
+    "phone": "09036656375",
+    "rating": "4.2"
+  },
+  {
+    "name": "Dr. B Kalra Heart Clinic",
+    "address": "Gurgaon Sector 66, Gurgaon",
+    "phone": "09731928965",
+    "rating": "4.5"
+  },
+  {
+    "name": "Jeevan Jyoti Clinic & Hospital",
+    "address": "118-A/1 Dilshad Garden, Delhi",
+    "phone": "07411720751",
+    "rating": "3.9"
+  },
+  {
+    "name": "Dr. Angela Sehra",
+    "address": "Club Road Punjabi Bagh, Delhi",
+    "phone": "08105252083",
+    "rating": "4.3"
+  },
+  {
+    "name": "Mata Roop Rani Maggo Hospital",
+    "address": "Om Vihar Uttam Nagar, Delhi",
+    "phone": "08105387204",
+    "rating": "4.3"
+  },
+  {
+    "name": "Dr. Anu Sidana Gynaecologist & C.S.Sidana General Physician",
+    "address": "CGHS WELLNESS Gurgaon Sector 5, Gurgaon",
+    "phone": "08147465269",
+    "rating": "4.7"
+  },
+  {
+    "name": "Sarvodaya Hospital",
+    "address": "Vaishali Sector 4, Ghaziabad",
+    "phone": "07411719662",
+    "rating": "4.0"
+  },
+  {
+    "name": "BLK-MAX Super Speciality Hospital",
+    "address": "Building No. 5 Pusa Road, Delhi",
+    "phone": "08050872706",
+    "rating": "4.4"
+  },
+  {
+    "name": "Max Super Speciality Hospital",
+    "address": "Indraprastha Extension, Delhi",
+    "phone": "07795671073",
+    "rating": "4.1"
+  },
+  {
+    "name": "Max Super Speciality Hospital",
+    "address": "Dwarka Sector 10, Delhi",
+    "phone": "08460552429",
+    "rating": "4.0"
+  },
+  {
+    "name": "Healing Temple Dr Arhat Homeo Clinic",
+    "address": "Saraswati Vihar Pitampura, Delhi",
+    "phone": "08105624979",
+    "rating": "4.5"
+  },
+  {
+    "name": "Genhealth Clinic",
+    "address": "Sector -12 Noida Sector 12, Noida",
+    "phone": "08147178986",
+    "rating": "4.7"
+  },
+  {
+    "name": "Dr. Swati Chauhan Clinic",
+    "address": "House No- B -77 Noida Sector 53, Noida",
+    "phone": "07411847934",
     "rating": "4.9"
+  },
+  {
+    "name": "Fortis Hospital",
+    "address": "Fortis Hospital Shalimar Bagh, Delhi",
+    "phone": "07795648756",
+    "rating": "4.3"
+  },
+  {
+    "name": "Rashmi Medical Centre",
+    "address": "Noida Sector 20, Noida",
+    "phone": "08105395620",
+    "rating": "3.7"
+  },
+  {
+    "name": "Kd Multispeciality Hospital",
+    "address": "Swatantra Nagar Narela, Delhi",
+    "phone": "08401582409",
+    "rating": "5.0"
+  },
+  {
+    "name": "Dr. S S Kalsi Shop No 5 Evergreen Medicos C Block Market Sector 41 Noida",
+    "address": "Market Sector Noida Sector 41, Noida",
+    "phone": "08490819320",
+    "rating": "4.7"
+  },
+  {
+    "name": "Dr. Mukesh Chandra Jha",
+    "address": "Gaur City 1, Greater Noida",
+    "phone": "08147944116",
+    "rating": "4.8"
   }
 ]

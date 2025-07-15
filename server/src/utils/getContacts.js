@@ -25,6 +25,7 @@ export const getContacts = async (
         "--disable-gpu",
         "--disable-features=site-per-process",
         "--disable-extensions",
+        "--single-process",
       ],
     });
 

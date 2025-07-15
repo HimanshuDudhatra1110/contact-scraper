@@ -15,19 +15,23 @@ export const scrapeJustDialContacts = async (
 
     await page.waitForSelector(".results_listing_container", { timeout: 8000 });
 
-    // Extra listeners for debugging crashes
+    let shouldStop = false; // 🔴 Break flag for loop
+
+    // Extra listeners for debugging crashes (trigger loop exit)
     page.on("error", (err) => {
       console.log(chalk.red("Page error:"), err.message);
+      shouldStop = true;
     });
 
     page.on("pageerror", (err) => {
       console.log(chalk.red("Runtime error on page:"), err.message);
+      shouldStop = true;
     });
 
     page.on("close", () => {
       console.log(chalk.red("Puppeteer page closed unexpectedly"));
+      shouldStop = true;
     });
-
     // Click "Verified" filter if required
     if (verifiedOnly) {
       const clicked = await page.evaluate(() => {
@@ -56,7 +60,7 @@ export const scrapeJustDialContacts = async (
     let lastSeenCount = 0;
     let sameCountRetries = 0;
 
-    while (contacts.length < limit && sameCountRetries < 5) {
+    while (contacts.length < limit && sameCountRetries < 5 && !shouldStop) {
       // Check if results container still exists (prevents white screen crash)
       const stillLoaded = await page.$(".results_listing_container");
       if (!stillLoaded) {
