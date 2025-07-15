@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Srija Car Service",
+    "address": "Jatin Das Nagar Belgharia, Kolkata",
+    "phone": "09606196032",
+    "rating": "4.9"
+  },
+  {
+    "name": "Prime Carzonrent",
+    "address": "2 No. Ganesh Ghosh Lane Topsia, Kolkata",
+    "phone": "07795648759",
+    "rating": "4.9"
+  },
+  {
+    "name": "Nandy Travels",
+    "address": "Dum Dum Ghughudanga, Kolkata",
+    "phone": "08792903214",
+    "rating": "4.8"
+  },
+  {
+    "name": "Kanchan Tour & Travels",
+    "address": "Peyari Mohan Roy Road Alipore, Kolkata",
+    "phone": "08460221698",
+    "rating": "4.2"
+  },
+  {
+    "name": "Jayanta Car Rental",
+    "address": "Station Road Sonarpur, Kolkata",
+    "phone": "09606176397",
+    "rating": "4.5"
+  },
+  {
+    "name": "R C Enterprise",
+    "address": "Picnic Garden Tiljala, Kolkata",
+    "phone": "09972840770",
+    "rating": "4.2"
+  },
+  {
+    "name": "S.G.M. TRAVELS",
+    "address": "Anwar Shah Road Golf Green, Kolkata",
+    "phone": "09725199168",
+    "rating": "4.7"
+  },
+  {
+    "name": "Ganapati Car Service",
+    "address": "B T Road Sodepur, Kolkata",
+    "phone": "09845472464",
+    "rating": "4.8"
+  },
+  {
+    "name": "Prem Cars",
+    "address": "S. A Farooquie Road Metiabruz, Kolkata",
+    "phone": "08904956119",
+    "rating": "4.9"
+  }
+]

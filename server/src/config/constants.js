@@ -1,0 +1,33 @@
+export const PACKAGE_CONFIG = {
+  Basic: { limit: 25, verified: false },
+  Standard: { limit: 50, verified: true },
+  Premium: { limit: 100, verified: true },
+};
+
+export const TOP_CITIES = [
+  "Mumbai",
+  "Delhi",
+  "Bangalore",
+  "Chennai",
+  "Kolkata",
+  "Hyderabad",
+  "Pune",
+  "Ahmedabad",
+  "Jaipur",
+  "Lucknow",
+  "Kanpur",
+  "Nagpur",
+  "Indore",
+  "Thane",
+  "Bhopal",
+  "Visakhapatnam",
+  "Vadodara",
+  "Patna",
+  "Ghaziabad",
+  "Ludhiana",
+  "Agra",
+  "Nashik",
+  "Faridabad",
+  "Meerut",
+  "Rajkot",
+];
