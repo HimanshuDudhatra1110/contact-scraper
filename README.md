@@ -9,7 +9,7 @@ Follow these steps to run the scraper:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/contact-scraper.git
+git clone https://github.com/HimanshuDudhatra1110/contact-scraper.git
 ```
 
 ### 2. Navigate to the server directory
