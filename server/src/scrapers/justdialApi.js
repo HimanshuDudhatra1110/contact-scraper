@@ -1,3 +1,5 @@
+// created this for get data via api which justdial uses to get data on scroll
+
 import axios from "axios";
 
 export async function justdialApi(sessionData, page = 1) {

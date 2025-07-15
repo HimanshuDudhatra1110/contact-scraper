@@ -31,6 +31,18 @@ export const getContacts = async (
 
     const page = await browser.newPage();
 
+    // // Set a realistic desktop user-agent
+    // await page.setUserAgent(
+    //   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+    //     "AppleWebKit/537.36 (KHTML, like Gecko) " +
+    //     "Chrome/124.0.0.0 Safari/537.36"
+    // );
+
+    // // Set additional headers
+    // await page.setExtraHTTPHeaders({
+    //   "Accept-Language": "en-US,en;q=0.9",
+    // });
+
     for (const city of selectedCities) {
       try {
         await scrapeJustDialContacts(
@@ -57,8 +69,6 @@ export const getContacts = async (
       await browser.close();
     }
   }
-
-  console.log("contacts", contacts);
 
   return contacts;
 };

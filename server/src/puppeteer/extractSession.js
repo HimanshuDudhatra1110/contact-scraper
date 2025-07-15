@@ -1,3 +1,6 @@
+// this is created to extract payloads and cookies by opening browser and make it make at least one api request to
+// get data on scroll and than extract needed data from thai api headers and body
+
 import puppeteer from "puppeteer";
 
 export const extractJustDialSession = async (category, city) => {

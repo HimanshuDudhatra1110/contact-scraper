@@ -74,7 +74,7 @@ const main = async () => {
       }
     }
 
-    console.log(chalk.yellow("Starting contact scraping..."));
+    console.log(chalk.yellow("Starting contact gathering..."));
 
     const allContacts = await getContacts(
       category,
@@ -87,8 +87,6 @@ const main = async () => {
       console.log(chalk.cyan(`No contact found`));
       return;
     }
-
-    console.log("all contacts ");
 
     try {
       fs.writeFileSync("results.json", JSON.stringify(allContacts, null, 2));

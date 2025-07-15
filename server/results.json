@@ -1,152 +1,56 @@
 [
   {
-    "name": "Dhama Clinic",
-    "address": "Dhama Clinic Noida Sector 34, Noida",
-    "phone": "08105574520",
-    "rating": "4.2"
-  },
-  {
-    "name": "Fortis Hospital",
-    "address": "Fortis Hospital Imt Manesar, Gurgaon",
-    "phone": "08511619049",
+    "name": "Pace It",
+    "address": "Lamington Road Lamington Road, Mumbai",
+    "phone": "09972848583",
     "rating": "4.7"
   },
   {
-    "name": "Medanta The Medicity",
-    "address": "Baktawar Singh Gurgaon Sector 38, Gurgaon",
-    "phone": "07795666852",
-    "rating": "4.3"
-  },
-  {
-    "name": "Genhealth Clinic",
-    "address": "Beta 1-Greater Noida, Greater Noida",
-    "phone": "08147859203",
-    "rating": "4.8"
-  },
-  {
-    "name": "Dr. Susheel Tyagi(Mediix Clinic)",
-    "address": "Niti Khand 2-Indirapuram, Ghaziabad",
-    "phone": "09980252276",
-    "rating": "5.0"
-  },
-  {
-    "name": "Dr. Fateh Singh",
-    "address": "80 Shalimar Garden Extention 1, Sahibabad",
-    "phone": "09606242108",
-    "rating": "4.5"
-  },
-  {
-    "name": "Asian Institute Of Medical Sciences",
-    "address": "Faridabad Sector 21a, Faridabad",
-    "phone": "07411780677",
+    "name": "Rajshree Systems",
+    "address": "Dr D B MARG Grant Road, Mumbai",
+    "phone": "09845254642",
     "rating": "4.2"
   },
   {
-    "name": "Yashoda Nursing Home",
-    "address": "Loni, Ghaziabad",
-    "phone": "09036656375",
-    "rating": "4.2"
+    "name": "Siddhivinayak Infotech",
+    "address": "Grant Road Girgaon, Mumbai",
+    "phone": "09725413244",
+    "rating": "4.3"
   },
   {
-    "name": "Dr. B Kalra Heart Clinic",
-    "address": "Gurgaon Sector 66, Gurgaon",
-    "phone": "09731928965",
+    "name": "Advance Technology",
+    "address": "Sector-17 Vashi, Navi Mumbai",
+    "phone": "09054362437",
     "rating": "4.5"
   },
   {
-    "name": "Jeevan Jyoti Clinic & Hospital",
-    "address": "118-A/1 Dilshad Garden, Delhi",
-    "phone": "07411720751",
-    "rating": "3.9"
+    "name": "Retronics",
+    "address": "Sector 17 Vashi Sector 17, Navi Mumbai",
+    "phone": "08511450383",
+    "rating": "3.5"
   },
   {
-    "name": "Dr. Angela Sehra",
-    "address": "Club Road Punjabi Bagh, Delhi",
-    "phone": "08105252083",
-    "rating": "4.3"
-  },
-  {
-    "name": "Mata Roop Rani Maggo Hospital",
-    "address": "Om Vihar Uttam Nagar, Delhi",
-    "phone": "08105387204",
-    "rating": "4.3"
-  },
-  {
-    "name": "Dr. Anu Sidana Gynaecologist & C.S.Sidana General Physician",
-    "address": "CGHS WELLNESS Gurgaon Sector 5, Gurgaon",
-    "phone": "08147465269",
-    "rating": "4.7"
-  },
-  {
-    "name": "Sarvodaya Hospital",
-    "address": "Vaishali Sector 4, Ghaziabad",
-    "phone": "07411719662",
-    "rating": "4.0"
-  },
-  {
-    "name": "BLK-MAX Super Speciality Hospital",
-    "address": "Building No. 5 Pusa Road, Delhi",
-    "phone": "08050872706",
+    "name": "Wiz World",
+    "address": "Sir M V Road Andheri East, Mumbai",
+    "phone": "09845422696",
     "rating": "4.4"
   },
   {
-    "name": "Max Super Speciality Hospital",
-    "address": "Indraprastha Extension, Delhi",
-    "phone": "07795671073",
-    "rating": "4.1"
+    "name": "Rishi Computer",
+    "address": "Shamrao Vitthal Marg Grant Road, Mumbai",
+    "phone": "09054613842",
+    "rating": "4.4"
   },
   {
-    "name": "Max Super Speciality Hospital",
-    "address": "Dwarka Sector 10, Delhi",
-    "phone": "08460552429",
-    "rating": "4.0"
-  },
-  {
-    "name": "Healing Temple Dr Arhat Homeo Clinic",
-    "address": "Saraswati Vihar Pitampura, Delhi",
-    "phone": "08105624979",
+    "name": "Seal Technologies Co",
+    "address": "JVPD Scheme-Juhu, Mumbai",
+    "phone": "08734820702",
     "rating": "4.5"
   },
   {
-    "name": "Genhealth Clinic",
-    "address": "Sector -12 Noida Sector 12, Noida",
-    "phone": "08147178986",
-    "rating": "4.7"
-  },
-  {
-    "name": "Dr. Swati Chauhan Clinic",
-    "address": "House No- B -77 Noida Sector 53, Noida",
-    "phone": "07411847934",
-    "rating": "4.9"
-  },
-  {
-    "name": "Fortis Hospital",
-    "address": "Fortis Hospital Shalimar Bagh, Delhi",
-    "phone": "07795648756",
-    "rating": "4.3"
-  },
-  {
-    "name": "Rashmi Medical Centre",
-    "address": "Noida Sector 20, Noida",
-    "phone": "08105395620",
-    "rating": "3.7"
-  },
-  {
-    "name": "Kd Multispeciality Hospital",
-    "address": "Swatantra Nagar Narela, Delhi",
-    "phone": "08401582409",
+    "name": "Krypto Computers",
+    "address": "Topiwala Lane Lamington Road, Mumbai",
+    "phone": "09054579750",
     "rating": "5.0"
-  },
-  {
-    "name": "Dr. S S Kalsi Shop No 5 Evergreen Medicos C Block Market Sector 41 Noida",
-    "address": "Market Sector Noida Sector 41, Noida",
-    "phone": "08490819320",
-    "rating": "4.7"
-  },
-  {
-    "name": "Dr. Mukesh Chandra Jha",
-    "address": "Gaur City 1, Greater Noida",
-    "phone": "08147944116",
-    "rating": "4.8"
   }
 ]
