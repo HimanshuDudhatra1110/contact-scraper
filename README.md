@@ -47,9 +47,9 @@ Each contact entry will look like:
 
 ```json
 {
-  "name": "Fitness Fuel",
-  "address": "Naroda, Ahmedabad",
-  "phone": "09012345678",
+  "name": "ABC",
+  "address": "Ahmedabad",
+  "phone": "00000000000",
   "rating": "4.5"
 }
 ```
